@@ -1,0 +1,3 @@
+[LOGIN]
+email = meuemail@teste.com
+senha = minhasenha
